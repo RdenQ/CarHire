@@ -3,7 +3,7 @@ CarHire demo app
 
 A simple app that parses list of cars from URL feed and displays them on a list
 
-![Alt text](list_of_cars.jpg?raw=true "Title")
+(https://github.com/RdenQ/CarHire/blob/master/list_of_cars.png?raw=true)
 <img src="https://github.com/RdenQ/CarHire/single_car.png" width="350" />
 
 Used:
