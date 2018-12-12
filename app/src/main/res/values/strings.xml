@@ -1,3 +1,16 @@
 <resources>
 	<string name="app_name">CarHire</string>
+	<string name="title_activity_car">Selected Car</string>
+	<string name="book_now">BOOK NOW</string>
+	<string name="car_stub_name">car name ...</string>
+	<string name="car_stub_number">1</string>
+	<string name="car_stub_petrol">Petrol</string>
+	<string name="car_stub_per_day">per day</string>
+	<string name="car_stub_price">777.77</string>
+	<string name="car_stub_vendor">vendor...</string>
+	<string name="car_stub_passengers">Passengers</string>
+	<string name="car_stub_doors">Doors</string>
+	<string name="car_stub_bags">Bags</string>
+	<string name="car_stub_empty">-</string>
+
 </resources>
