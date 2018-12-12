@@ -10,7 +10,7 @@ Used:
 - Picasso for photo download
 - Espresso for sample UI tests
 
-[App on Playstore](https://play.google.com/store/apps/details?id=com.rdenq.carhire)
+Download the app from [Playstore](https://play.google.com/store/apps/details?id=com.rdenq.carhire) or the signed apk : app/release/app-release.apk
 
 
 
