@@ -3,8 +3,10 @@ CarHire demo app
 
 A simple app that parses list of cars from URL feed and displays them on a list
 
-(https://github.com/RdenQ/CarHire/blob/master/list_of_cars.png?raw=true)
-<img src="https://github.com/RdenQ/CarHire/single_car.png" width="350" />
+![some text](https://github.com/RdenQ/CarHire/blob/master/list_of_cars.png?raw=true)
+
+(https://github.com/RdenQ/CarHire/blob/master/single_car.png?raw=true)
+
 
 Used:
 - Retrofit2 to download data
