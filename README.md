@@ -14,7 +14,7 @@ Used:
 
 
 
-![some text](https://github.com/RdenQ/CarHire/blob/master/list_of_cars.png? raw=true width="350")
+![some text](https://github.com/RdenQ/CarHire/blob/master/list_of_cars.png?raw=true)
 
 
 
