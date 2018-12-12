@@ -8,7 +8,7 @@ A simple app that parses list of cars from URL feed and displays them on a list
 
 Used:
 - Retrofit2 to download data
-- http://www.jsonschema2pojo.org/ to m map json to java object model
+- http://www.jsonschema2pojo.org/ to map json to java object model
 - Androidx libraries
 - Picasso for photo download
 - Espresso for sample UI tests
